@@ -1,0 +1,5 @@
+Model\Carrinho.class
+Control\ProdutoControl.class
+Model\Produto.class
+View\ProdutoView.class
+View\App.class
